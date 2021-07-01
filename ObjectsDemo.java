@@ -1,4 +1,4 @@
-abstract class Object{
+abstract class Object{ // Defining the abstract class
     double length;
     double width;
     double height;
